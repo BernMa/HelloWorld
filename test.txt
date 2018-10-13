@@ -2,4 +2,4 @@ HelloWorld!
 
 HelloWorld!
 
-At branch Master.
+This is the merged test.
